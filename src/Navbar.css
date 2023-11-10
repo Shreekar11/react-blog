@@ -1,0 +1,6 @@
+.links :hover{
+    color: rgb(165 243 252 / var(--tw-text-opacity));
+    transition-property: all;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}

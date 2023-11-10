@@ -1,0 +1,10 @@
+{
+    "blogs": [
+      {
+        "title": "MERN Stack Development",
+        "author": "Net Ninja",
+        "body": "MERN stack is a software stack that includes four open-source technologies: (MongoDB, Express.js, React, and Node.js). These components provide an end-to-end framework for building dynamic web sites and web applications.\n\nAmong these technologies MongoDB is a database system, Node.js is a server-side runtime environment, Express.js is a web framework for Node.js and React is a client-side JavaScript library used for building user interfaces.\n\nBecause all components of the MERN stack support programs that are written in JavaScript, MERN applications can be written in one programming language for both server-side and client-side execution environments.",
+        "id": 1
+      }
+    ]
+  }
