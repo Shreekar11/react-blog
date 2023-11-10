@@ -13,7 +13,7 @@ const Home = () => {
             Loading....
           </div>}
         {error && <div> {error} </div>}
-        {blogs && <h1 className=' text-4xl font-extrabold flex items-center justify-center'>Your Blogs</h1> }
+        {blogs && <h1 className=' text-4xl font-extrabold flex items-center justify-center'> Blogs</h1> }
         {blogs && <BlogsList blogList={blogs} title = ""/>}
       </div>
   );
