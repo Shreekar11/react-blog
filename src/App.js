@@ -8,12 +8,12 @@ import BlogDetails from './BlogDetails';
 function App() {
 
   return (
-    <Router basename='/react-blog'>
+    <Router basename='/'>
       <div className="App">
         <Navbar />
         <div className="content">
           <Switch>
-            <Route exact path="/react-blog">
+            <Route exact path="/">
               <Home />
             </Route>
 
