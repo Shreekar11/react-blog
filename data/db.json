@@ -1,10 +1,34 @@
 {
-    "blogs": [
-      {
-        "title": "MERN Stack Development",
-        "author": "Net Ninja",
-        "body": "MERN stack is a software stack that includes four open-source technologies: (MongoDB, Express.js, React, and Node.js). These components provide an end-to-end framework for building dynamic web sites and web applications.\n\nAmong these technologies MongoDB is a database system, Node.js is a server-side runtime environment, Express.js is a web framework for Node.js and React is a client-side JavaScript library used for building user interfaces.\n\nBecause all components of the MERN stack support programs that are written in JavaScript, MERN applications can be written in one programming language for both server-side and client-side execution environments.",
-        "id": 1
-      }
-    ]
-  }
+  "blogs": [
+    {
+      "id": 1,
+      "title": "ChatGPT ",
+      "author": "OpenAI",
+      "body": "ChatGPT, which stands for Chat Generative Pre-trained Transformer, is a large language model-based chatbot developed by OpenAI and launched on November 30, 2022, that enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive prompts and replies, known as prompt engineering, are considered at each conversation stage as a context.[2] ChatGPT is built upon either GPT-3.5 or GPT-4—members of OpenAI's proprietary series of generative pre-trained transformer (GPT) models, based on the transformer architecture developed by Google[3]—and is fine-tuned for conversational applications using a combination of supervised and reinforcement learning techniques.[4] ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model. It allows users on its free tier to access the GPT-3.5-based version. In contrast, the more advanced GPT-4-based version and priority access to newer features are provided to paid subscribers under the commercial name \"ChatGPT Plus\". By January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to OpenAI's valuation growing to $29 billion.[5][6] ChatGPT's release spurred the development of competing products, including Bard, Ernie Bot, LLaMA, Claude, and Grok.[7] Microsoft launched its Bing Chat based on OpenAI's GPT-4. It raised concern among some observers over the potential of ChatGPT and s"
+    },
+    {
+      "id": 2,
+      "title": "Zen and the Art of Mountain Biking",
+      "author": "Quentin Septer",
+      "body": "We mountain bikers tend to get a bad rap. \n I for one, when I mention my love of mountain biking, am often met with looks of disgust and disappointment. Trail runners don't like us. Roadies hate us. Hikers despise us. Even internet search algorithms seem to have a bias against us mountain bikers. During the coronavirus pandemic, when I began to wonder why brake pads had become scarce commodities, I typed the words  “why are mountain bike…” into an internet search bar. “Why are mountain bike brake pads so hard to find?” I intended to inquire. But the search bar auto-filled: “…rs such douchebags.” Why are mountain bikers such douchebags? Perhaps it's a question you've considered yourself.“You mountain bikers are crazy,” a friend of mine by the name of Alyssa once declared in response to my long-winded, wild-eyed ramblings on about the beauty and allure of mountain biking — the poetry of cycling, if you will. Her eyes were narrowed with incredulous skepticism. After one too many near run-ins with mountain bikers on her local trails in Boulder, Colorado, she’s begun to view mountain bikes and the “adrenaline junkies” who ride them with disdain. She hikes. She runs trails. She even road bikes. But when it comes to mountain biking, she just doesn't get it. And she has a point, as much as I hate to admit it, the avid mountain biker that I am. If, on several occasions, I'd nearly been run over by some asshole hauling ass down trail, I’d probably be a little resentful, too. But you’re always going to have a few bad apples, I tell her."
+    },
+    {
+      "id": 3,
+      "title": "ChatGPT, or: How I Learned to Stop Worrying and Love AI",
+      "author": "Lessig",
+      "body": "In my first book, Code and Other Laws of Cyberspace (1999), I told the story of why I had become a lawyer. My uncle, Richard Cates, had been the lawyer working for the House Committee on Impeachment (along with a much younger lawyer, Hillary Rodham (soon to be) Clinton). In 1974, just before Nixon resigned, Cates visited us in Pennsylvania and took me for a long walk. I wanted to know why he was doing what he was doing — persecuting Richard Nixon! I was 13. Uncle Dick was the only Democrat in our extended family. He was also the only lawyer. My father despised lawyers. I loved everything about my father. Uncle Dick explained his job to me. It was, as he said, nothing more than to teach the facts of the case — the Watergate coverup — to Members of Congress. As I remembered his words in Code: It is what a lawyer does, what a good lawyer does, that makes this system work. It is not the bluffing, or the outrage, or the strategies and tactics. It is something much simpler than that. What a good lawyer does is tell a story that persuades. Not by hiding the truth or exciting the emotion, but using reason, through a story, to persuade When it works, it does something to the people who experience this persuasion. Some, for the first time in their lives, see power constrained by reason. Not by votes, not by wealth, not by who someone knows — but by an argument that persuades. This is the magic of our system, however rare the miracles may be."
+    },
+    {
+      "id": 4,
+      "title": "Human Rights Are Universal",
+      "author": "Hillary Clinton",
+      "body": "December 10th is the 75th anniversary of the Universal Declaration of Human Rights and once again we are in the midst of a debate about whether it declares Western or universal values. Based on our experiences around the world, we believe strongly that the human rights enshrined in the Declaration are in fact truly universal. They belong to everyone, everywhere. And, an analysis of how the Declaration was created shows clearly that it arose from a global debate in the aftermath of the horrors of the Second World War as nations struggled to reconcile sovereignty with security and international law with human rights. \n The world had never experienced trauma of that scale. Forty-five million civilians and fifteen million soldiers killed. Twenty-five million soldiers wounded, and forty-five million civilians injured. More than eleven million murdered and tortured in concentration camps. Fifty-plus million refugees jammed in camps across Europe. And atomic bombs devastated Hiroshima and Nagasaki. \n As the Secord World War drew to a close, the so-called “Great Powers” — the United States, the United Kingdom, China, and Russia — convened at Dumbarton Oaks in Washington, DC, to design an international organization that would succeed where the League of Nations had failed. The delegates from those nations were focused solely on security not the values leaders had proclaimed they were defending and promoting throughout the war."
+    },
+    {
+      "id": 5,
+      "title": "I was laid off a year ago",
+      "author": "Nicole Alexandra Michaelis",
+      "body": "I was laid off from Spotify in the middle of my maternity leave back in January. I’ve shared a lot about my feelings back then (as many do). I've seen fewer reports from people a while after being laid off. So this is where I'm at almost exactly a year after being unexpectedly laid off. Not really. While I counted on not being impacted because maternity leave is (technically) a protected class, the waves of layoffs have shown that no one is safe. I should have known better. My team was a classic cost center, not actively contributing to revenue. The first red flag when layoffs happen. My role had also been switched between teams 3 times in under a year, another thing companies tend to look at when deciding who to let go. Plus, I had already been out for half a year on mat leave. So clearly my role wasn't needed (a contractor had taken on my tasks while I was out)."
+    }
+  ]
+}
