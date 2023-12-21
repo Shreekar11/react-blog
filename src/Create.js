@@ -22,7 +22,7 @@ const Create = () => {
             body : JSON.stringify(blogs)
         }).then(() => {
             setIsLoading(false);
-            history.push('/react-blog');
+            history.push('/');
         })
     }
 
